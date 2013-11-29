@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1e391d3-69e3-4bfa-b480-8100deacd15d" name="Default" comment="" />
+    <list default="true" id="f1e391d3-69e3-4bfa-b480-8100deacd15d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="manoush2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +69,7 @@
       <file leaf-file-name="note_list.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microblog/templates/microblog/note_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="23" selection-start="248" selection-end="248" vertical-scroll-proportion="0.33653846" vertical-offset="0" max-vertical-offset="540">
+            <state line="12" column="23" selection-start="429" selection-end="429" vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -547,7 +549,11 @@
       <created>1385625762056</created>
       <updated>1385625762056</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pychram git&#10;&#10;git設定？">
+      <created>1385718134342</created>
+      <updated>1385718134342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -574,6 +580,7 @@
     <frame x="545" y="22" width="819" height="742" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31993568" sideWeight="0.49935317" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -589,7 +596,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -604,7 +610,8 @@
     </option>
     <MESSAGE value="Chapter3&#10;&#10;Chapter3までのコード" />
     <MESSAGE value="Chapter4-1&#10;&#10;model 修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter4-1&#10;&#10;model 修正" />
+    <MESSAGE value="Pychram git&#10;&#10;git設定？" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pychram git&#10;&#10;git設定？" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -707,7 +714,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microblog/templates/microblog/note_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="248" selection-end="248" vertical-scroll-proportion="0.33653846" vertical-offset="0" max-vertical-offset="540">
+        <state line="12" column="23" selection-start="429" selection-end="429" vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>
