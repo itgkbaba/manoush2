@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3642551754">
+  <component name="DataSourceManagerImpl" format="xml" hash="3261253490">
     <data-source source="LOCAL" name="Django default" uuid="41372eff-6b00-4fa9-9410-f5e1adacd288">
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql:///data_test2</jdbc-url>

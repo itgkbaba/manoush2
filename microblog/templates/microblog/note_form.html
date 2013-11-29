@@ -1,8 +1,9 @@
 {% extends 'microblog/base.html' %}
 {% block content %}
     <form method="post">
+    {% csrf_token %}
         <table>
-            {{ form }}{% csrf_token %}
+            {{ form }}
         </table>
         <input type="submit" value="登録" />
     </form>
